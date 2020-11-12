@@ -1,11 +1,17 @@
-> [!div class="op_multi_selector" title1="Platform" title2="Backend"]
-> - [(iOS | .NET)](./mobile-services-dotnet-backend-ios-get-started-push.md)
-> - [(iOS | JavaScript)](./mobile-services-javascript-backend-ios-get-started-push.md)
-> - [(Windows universal C# | .NET)](./mobile-services-dotnet-backend-windows-universal-dotnet-get-started-push.md)
-> - [(Windows universal C# | Javascript)](./mobile-services-javascript-backend-windows-universal-dotnet-get-started-push.md)
-> - [(Windows Phone | .NET)](./mobile-services-dotnet-backend-windows-phone-get-started-push.md)
-> - [(Windows Phone | Javascript)](./mobile-services-javascript-backend-windows-phone-get-started-push.md)
-> - [(Android | .NET)](./mobile-services-dotnet-backend-android-get-started-push.md)
-> - [(Android | Javascript)](./mobile-services-javascript-backend-android-get-started-push.md)
-> - [(Xamarin iOS | Javascript)](./partner-xamarin-mobile-services-ios-get-started-push.md)
-> - [(Xamarin Android | Javascript)](./partner-xamarin-mobile-services-android-get-started-push.md)
+# Table of contents
+1. [Introduction](#introduction)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
+
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
+
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
+
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+## Another paragraph <a name="paragraph2"></a>
+The second paragraph text
